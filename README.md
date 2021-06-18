@@ -1,16 +1,7 @@
-# e_cards
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p><span style="font-size: 28px;">E Card Game is a based in a game in Anime <a href="https://www.imdb.com/title/tt1202625/" rel="noopener noreferrer" target="_blank">Kaiji ,</a></span></p>
+<p>currently the game include 1 Single Mode against pc ,</p>
+<p>hoping in Future adding Online Mode .</p>
+<p>you can try the game from&nbsp;<a href="https://e-card-dca67.web.app/#/" rel="noopener noreferrer" target="_blank">here </a></p>
+<div id="gtx-trans" style="position: absolute; left: 186px; top: 114px;">
+    <div class="gtx-trans-icon"><br></div>
+</div>
