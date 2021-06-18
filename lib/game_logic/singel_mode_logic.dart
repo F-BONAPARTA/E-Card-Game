@@ -1,5 +1,5 @@
-import 'package:e_cards/constants.dart';
-import 'package:e_cards/game_logic/winner_video.dart';
+import '../constants.dart';
+import 'winner_video.dart';
 
 class SingelModeLogic {
   static Map calculateTheWinner(CardType kaijiCard, CardType tonegawaCard) {

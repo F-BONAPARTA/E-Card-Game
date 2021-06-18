@@ -1,4 +1,4 @@
-import 'package:e_cards/constants.dart';
+import '../constants.dart';
 
 class CardModel {
   final CardType cardType;

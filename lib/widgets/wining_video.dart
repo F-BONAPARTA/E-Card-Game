@@ -25,6 +25,7 @@ class _WiningVideoWidgetState extends State<WiningVideoWidget> {
       });
   }
 
+//
   void _addListtenerToTheVideo() {
     _controller.addListener(() {
       if (_controller.value.isPlaying == false) {

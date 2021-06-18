@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import 'package:e_cards/constants.dart';
+import '../constants.dart';
 
 class GameCardImage extends StatelessWidget {
   final bool isBackCard;

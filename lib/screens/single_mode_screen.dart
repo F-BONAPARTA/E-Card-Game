@@ -1,13 +1,13 @@
 import 'package:awesome_dialog/awesome_dialog.dart';
-import 'package:e_cards/constants.dart';
-import 'package:e_cards/controllers/singel_mode_controller.dart';
-import 'package:e_cards/game_logic/singel_mode_logic.dart';
-import 'package:e_cards/models/card_model.dart';
-import 'package:e_cards/widgets/dialogs/back_browser_button.dart';
-import 'package:e_cards/widgets/dialogs/end_game_dialog.dart';
-import 'package:e_cards/widgets/dialogs/ensure_dialog.dart';
-import 'package:e_cards/widgets/game_card_widget.dart';
-import 'package:e_cards/widgets/wining_video.dart';
+import '../constants.dart';
+import '../controllers/singel_mode_controller.dart';
+import '../game_logic/singel_mode_logic.dart';
+import '../models/card_model.dart';
+import '../widgets/dialogs/back_browser_button.dart';
+import '../widgets/dialogs/end_game_dialog.dart';
+import '../widgets/dialogs/ensure_dialog.dart';
+import '../widgets/game_card_widget.dart';
+import '../widgets/wining_video.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

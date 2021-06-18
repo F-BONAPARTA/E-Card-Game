@@ -1,5 +1,5 @@
-import 'package:e_cards/constants.dart';
-import 'package:e_cards/models/card_model.dart';
+import '../constants.dart';
+import '../models/card_model.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:uuid/uuid.dart';

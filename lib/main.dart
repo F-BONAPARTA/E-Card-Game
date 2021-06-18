@@ -1,5 +1,5 @@
-import 'package:e_cards/controllers/singel_mode_controller.dart';
-import 'package:e_cards/screens/welcome_screen.dart';
+import 'controllers/singel_mode_controller.dart';
+import 'screens/welcome_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
